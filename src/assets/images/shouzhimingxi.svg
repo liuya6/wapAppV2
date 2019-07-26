@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="61px" viewBox="0 0 61 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>shouzhimingxi</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-41.1%" y="-41.1%" width="182.2%" height="182.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.941689312   0 0 0 0 0.772622448   0 0 0 0 0.220062457  0 0 0 0.664007867 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="新" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="余额宝初始" transform="translate(-157.000000, -314.000000)">
+            <g id="shouzhimingxi" transform="translate(165.000000, 320.000000)">
+                <g id="底色" filter="url(#filter-1)" fill="#FDD44E" stroke="#FBC241" stroke-width="2">
+                    <circle id="Oval" cx="22.5" cy="22.5" r="22.5"></circle>
+                </g>
+                <path d="M18.7501673,16.4215976 L20.2491635,16.4215976 C20.6627259,16.4215976 21,16.714186 21,17.071794 C21,17.429402 20.6627259,17.7219904 20.2505019,17.7219904 L18.7488289,17.7219904 L18.7488289,19.3498036 C18.7488289,19.7074116 18.4102164,20 17.9979924,20 C17.5846658,19.9987262 17.2499627,19.7083682 17.2484943,19.3498036 L17.2484943,17.7208293 L15.7494981,17.7208293 C15.3361715,17.7195556 15.0014683,17.4291975 15,17.0706329 C15,16.7130249 15.3359358,16.4204365 15.7494981,16.4204365 L17.2484943,16.4204365 L17.2484943,15.8515146 L15.412224,14.1586818 C15.1302192,13.8853625 15.1302192,13.4718002 15.412224,13.198481 C15.5454313,13.073998 15.73238,13.0032627 15.9281731,13.0032627 C16.1239662,13.0032627 16.3109149,13.073998 16.4441222,13.198481 L17.9993308,14.6323963 L19.5746152,13.2008031 C19.7054194,13.0730818 19.8929543,13 20.0898952,13 C20.2868361,13 20.4743709,13.0730818 20.6051751,13.2008031 C20.8871799,13.4741224 20.8871799,13.8876847 20.6051751,14.1610039 L18.7515057,15.8515146 L18.7515057,16.4204365 L18.7501673,16.4215976 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="矩形" stroke="#FFFFFF" x="22.5" y="17.5" width="6" height="1" rx="0.5"></rect>
+                <rect id="矩形" stroke="#FFFFFF" x="16.5" y="23.5" width="12" height="1" rx="0.5"></rect>
+                <rect id="矩形-copy-4" stroke="#FFFFFF" x="16.5" y="28.5" width="12" height="1" rx="0.5"></rect>
+                <rect id="矩形" stroke="#FFFFFF" stroke-width="1.5" fill-opacity="0.33" fill="#FFFFFF" x="12.75" y="10.75" width="19.5" height="23.5" rx="3"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
